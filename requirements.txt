@@ -1,0 +1,8 @@
+fastapi==0.115.2
+uvicorn[standard]==0.32.0
+typer==0.12.5
+pypdf==5.0.1
+python-docx==1.1.2
+pillow==11.0.0
+pytesseract==0.3.13
+python-multipart==0.0.12
